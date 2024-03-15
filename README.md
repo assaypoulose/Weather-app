@@ -4,6 +4,8 @@ Weather App for Website using HTML CSS and JavaScript. We will get the current w
 We will display the weather info on website from Free API using JavaScript.
 In this weather app we will add one search box where user can enter the city name and get the weather information of the particular city.
 
+Netlify deployed URL :- https://current-weather-update-app.netlify.app/
+
 
 Constraints required for this project: UI should be responsive & look and feel Process & display the necessary data on the webpage.
 Your project/task should obtain the code quality Proper variable & function names Use of catch for the fetch Should not use any deprecated tags.
